@@ -22,5 +22,5 @@
 - Grupo 4 - iPoint - Localizador de dispositivos do IPT
   - Link do repositório: https://github.com/2022M4T1-Inteli/iPoint
   
-- Grupo 5 - 
-  - Link do repositório: https://github.com/2022M4T1-Inteli/Projeto5
+- Grupo 5 - Locus
+  - Link do repositório: https://github.com/2022M4T1-Inteli/Locus
