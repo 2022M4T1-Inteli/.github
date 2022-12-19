@@ -17,7 +17,7 @@
   - Link do repositório: https://github.com/2022M4T1-Inteli/IPTRACKER
   
 - Grupo 3 - IPT-Finder
-  - Link do repositório: https://github.com/2022M4T1-Inteli/Projeto3
+  - Link do repositório: https://github.com/2022M4T1-Inteli/IPT-Finder
   
 - Grupo 4 - iPoint - Localizador de dispositivos do IPT
   - Link do repositório: https://github.com/2022M4T1-Inteli/iPoint
