@@ -1,12 +1,12 @@
 # 🙋‍ 2022.2 - Módulo IoT - Turma 1 - IPT
 ## 🔍 O problema:
-
+O IPT tem, atualmente, R$187 milhões em máquinas e equipamentos no seu ativo. São aproximadamente 20.000 itens neste grupo, onde 4000 necessitam de monitoramento.
 
 ## 🎯 O objetivo:
-
+Desenvolver dispositivo que possa ser acoplado nos principais ativos do IPT para que a localização deles possa ser monitorada por meio da rede interna.
 
 ## 🧩 O público-alvo:
-
+Agentes da controladoria.
 
 ## 💻 Solução IoT:
 
